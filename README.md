@@ -4,7 +4,7 @@
 
 **Software Development Student · Front-End Enthusiast · Lifelong Learner**
 
-📍 Phnom Penh, Cambodia &nbsp;|&nbsp; 📧 muyyi22@gmail.com &nbsp;|&nbsp; 🌐 [Portfolio](https://shorturl.at/IoyOU) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/muyyi-srors)
+📍 Phnom Penh, Cambodia &nbsp;|&nbsp; 📧 muyyi22@gmail.com &nbsp;|&nbsp; 🌐 [Portfolio]([https://shorturl.at/IoyOU](https://www.linkedin.com/in/muyyi-srors-8a8128290/)) &nbsp;|&nbsp; 💼 [LinkedIn]([Muyyi Srors](https://www.linkedin.com/in/muyyi-srors-8a8128290/))
 
 </div>
 
@@ -84,9 +84,9 @@ A full-featured desktop POS application with role-based access control — Manag
 
 <div align="center">
 
-![Srors Muyyi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Srors Muyyi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azureohizone&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azureohizone&layout=compact&theme=default&hide_border=true)
 
 </div>
 
@@ -99,7 +99,7 @@ I'm always open to connecting with fellow developers, collaborating on interesti
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muyyi-srors)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shorturl.at/IoyOU)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://azureohizone.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muyyi22@gmail.com)
 
 </div>
