@@ -86,9 +86,9 @@ A full-featured desktop POS application with role-based access control — Manag
 
 <div align="center">
 
-![Srors Muyyi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azureohizone&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=azureohizone&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azureohizone&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=azureohizone&layout=compact&hide_border=true)
 
 </div>
 
