@@ -80,19 +80,7 @@ A cross-platform clone of the Pinterest mobile UI spanning five screens: home fe
 
 A full-featured desktop POS application with role-based access control — Managers get full system access while Cashiers are restricted to the POS module. Built on a relational MySQL database with 6 normalized tables, applying OOP principles including encapsulation and a clean separation between UI and data access layers.
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=azureohizone&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=azureohizone&layout=compact&hide_border=true)
-
-</div>
-
----
 
 ## 📬 Let's Connect
 
