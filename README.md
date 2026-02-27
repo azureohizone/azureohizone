@@ -1,16 +1,111 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**azureohizone/azureohizone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Muyyi 👋
 
-Here are some ideas to get you started:
+**Software Development Student · Front-End Enthusiast · Lifelong Learner**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Phnom Penh, Cambodia &nbsp;|&nbsp; 📧 muyyi22@gmail.com &nbsp;|&nbsp; 🌐 [Portfolio](https://shorturl.at/IoyOU) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/muyyi-srors)
+
+</div>
+
+---
+
+## About Me
+
+I'm a final-year **Software Development** student at Norton University with hands-on experience in front-end development and academic project implementation. I'm also currently expanding my skills in App/Web Development at TUX Global Institute.
+
+I'm passionate about building clean, functional applications and enjoy turning real-world problems into well-structured software solutions. I'm actively looking for internship or entry-level opportunities where I can grow and contribute to meaningful projects.
+
+- 🔭 Currently working on full-stack and mobile projects
+- 🌱 Deepening my skills in **Flutter**, **REST APIs**, and **database design**
+- 🤝 Open to collaborating on open-source or student projects
+- 🗣️ Speaks **Khmer** (Native), **English** (B2), and **Mandarin** (HSK2 · 200/200)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Mini Mart POS System
+`HTML` `CSS` `JavaScript`
+
+A fully functional, multi-page Point of Sale web application built for small retail stores — no backend or external libraries required. Features shopping cart management, product inventory CRUD, supplier stock intake, and daily sales reporting with a fully responsive layout using CSS Grid and Flexbox.
+
+---
+
+### 📱 Pinterest Mobile App Clone
+`Flutter` `Dart`
+
+A cross-platform clone of the Pinterest mobile UI spanning five screens: home feed, search, notifications, messaging, and profile. Implements a multi-tab bottom navigation system with tab-persistent state and dynamic content switching, targeting iOS, Android, Web, macOS, Linux, and Windows from a single codebase.
+
+---
+
+### 🏪 Supermarket Inventory & Sales System
+`Java` `Swing` `MySQL` `JDBC`
+
+A full-featured desktop POS application with role-based access control — Managers get full system access while Cashiers are restricted to the POS module. Built on a relational MySQL database with 6 normalized tables, applying OOP principles including encapsulation and a clean separation between UI and data access layers.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Srors Muyyi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to connecting with fellow developers, collaborating on interesting projects, or discussing internship opportunities.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muyyi-srors)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shorturl.at/IoyOU)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muyyi22@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+<sub>⭐ Feel free to explore my repositories and leave a star if you find something useful!</sub>
+</div>
