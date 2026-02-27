@@ -4,7 +4,7 @@
 
 **Software Development Student · Front-End Enthusiast · Lifelong Learner**
 
-📍 Phnom Penh, Cambodia &nbsp;|&nbsp; 📧 muyyi22@gmail.com &nbsp;|&nbsp; 🌐 [Portfolio][(https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://azureohizone.github.io/Portfolio/)](https://www.linkedin.com/in/muyyi-srors-8a8128290/)) &nbsp;|&nbsp; 💼 [LinkedIn]([Muyyi Srors](https://www.linkedin.com/in/muyyi-srors-8a8128290/))
+📍 Phnom Penh, Cambodia &nbsp;|&nbsp; 📧 muyyi22@gmail.com &nbsp;|&nbsp; 🌐 [Portfolio](https://azureohizone.github.io/Portfolio/) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/muyyi-srors-8a8128290/)
 
 </div>
 
@@ -16,8 +16,8 @@ I'm a final-year **Software Development** student at Norton University with hand
 
 I'm passionate about building clean, functional applications and enjoy turning real-world problems into well-structured software solutions. I'm actively looking for internship or entry-level opportunities where I can grow and contribute to meaningful projects.
 
-- 🔭 Currently working on full-stack and mobile projects
-- 🌱 Deepening my skills in **React + Next.js**, **REST APIs**, and **database design**
+- 🔭 Deepening my skills in **React + Next.js**, **REST APIs**, and **database design**
+- 🌱 Exploring full-stack web development and modern front-end frameworks
 - 🤝 Open to collaborating on open-source or student projects
 - 🗣️ Speaks **Khmer** (Native), **English** (B2), and **Mandarin** (HSK2 · 200/200)
 
@@ -37,6 +37,8 @@ I'm passionate about building clean, functional applications and enjoy turning r
 
 **Frameworks & Libraries**
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
@@ -98,7 +100,7 @@ I'm always open to connecting with fellow developers, collaborating on interesti
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/muyyi-srors-8a8128290/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muyyi-srors-8a8128290/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://azureohizone.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muyyi22@gmail.com)
 
