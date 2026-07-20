@@ -19,6 +19,7 @@ I'm passionate about building clean, functional applications and enjoy turning r
 - 🎓 Currently building my thesis project: **Cherish Baby KH Store** — an e-commerce platform with AI-driven sentiment analysis, built with **React** and **Node.js**
 - 🔭 Deepening my skills in **React + Next.js**, **REST APIs**, and **database design**
 - 🌱 Exploring full-stack web development and modern front-end frameworks
+- 📊 Also interested in **Data Analytics** — comfortable with **Excel**, **Power BI**, and Python tools like **Pandas**, **NumPy**, **Matplotlib/Seaborn**, and **Scikit-learn** for data cleaning, EDA, visualization, and basic predictive modeling
 - 🤝 Open to collaborating on open-source or student projects
 - 🗣️ Speaks **Khmer** (Native), **English** (B2), and **Mandarin** (HSK2 · 200/200)
 
@@ -50,6 +51,16 @@ I'm passionate about building clean, functional applications and enjoy turning r
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
+**Data & Analytics**
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -62,6 +73,13 @@ I'm passionate about building clean, functional applications and enjoy turning r
 ---
 
 ## 🚀 Featured Projects
+
+### 🎬 TMDB Movie Data Analysis
+`Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
+
+An end-to-end data analytics project on the TMDB 5000 Movies dataset, covering the full workflow: data cleaning (handling missing values, hidden zeros, and nested JSON columns), exploratory data analysis, feature engineering (budget tiers, release year/month), and visualization (genre trends, budget vs. revenue). Also builds and compares Linear Regression and Random Forest models to predict box office revenue, with cross-validation and feature importance analysis.
+
+---
 
 ### 👶 Cherish Baby KH Store — E-Commerce Platform (Thesis Project)
 `React` `Node.js` `Express` `MySQL` `Sentiment Analysis`
