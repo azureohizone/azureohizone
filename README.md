@@ -19,7 +19,7 @@ I'm passionate about building clean, functional applications and enjoy turning r
 - 🎓 Currently building my thesis project: **Cherish Baby KH Store** — an e-commerce platform with AI-driven sentiment analysis, built with **React** and **Node.js**
 - 🔭 Deepening my skills in **React + Next.js**, **REST APIs**, and **database design**
 - 🌱 Exploring full-stack web development and modern front-end frameworks
-- 📊 Also interested in **Data Analytics** — comfortable with **Excel**, **Power BI**, and Python tools like **Pandas**, **NumPy**, **Matplotlib/Seaborn**, and **Scikit-learn** for data cleaning, EDA, visualization, and basic predictive modeling
+- 📊 Also interested in **Data Analytics** — comfortable with **Excel**, **Power BI**, **Microsoft Access**, and Python tools like **Pandas**, **NumPy**, **Matplotlib/Seaborn**, and **Scikit-learn** for data cleaning, EDA, visualization, and basic predictive modeling
 - 🤝 Open to collaborating on open-source or student projects
 - 🗣️ Speaks **Khmer** (Native), **English** (B2), and **Mandarin** (HSK2 · 200/200)
 
@@ -41,6 +41,7 @@ I'm passionate about building clean, functional applications and enjoy turning r
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
@@ -59,6 +60,7 @@ I'm passionate about building clean, functional applications and enjoy turning r
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoftaccess&logoColor=white)
 
 **Tools & Platforms**
 
