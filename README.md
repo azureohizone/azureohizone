@@ -16,6 +16,7 @@ I'm a final-year **Software Development** student at Norton University with hand
 
 I'm passionate about building clean, functional applications and enjoy turning real-world problems into well-structured software solutions. I'm actively looking for internship or entry-level opportunities where I can grow and contribute to meaningful projects.
 
+- 🎓 Currently building my thesis project: **Cherish Baby KH Store** — an e-commerce platform with AI-driven sentiment analysis, built with **React** and **Node.js**
 - 🔭 Deepening my skills in **React + Next.js**, **REST APIs**, and **database design**
 - 🌱 Exploring full-stack web development and modern front-end frameworks
 - 🤝 Open to collaborating on open-source or student projects
@@ -38,6 +39,8 @@ I'm passionate about building clean, functional applications and enjoy turning r
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
@@ -60,6 +63,13 @@ I'm passionate about building clean, functional applications and enjoy turning r
 
 ## 🚀 Featured Projects
 
+### 👶 Cherish Baby KH Store — E-Commerce Platform (Thesis Project)
+`React` `Node.js` `Express` `MySQL` `Sentiment Analysis`
+
+My final-year thesis project, built with a four-person team: a full e-commerce platform for a baby products store, featuring AI-driven sentiment analysis on customer reviews to surface product insights. Built on a React front end and a Node.js/Express back end, with a normalized MySQL schema. My contributions span feature implementation, testing, and thesis documentation.
+
+---
+
 ### 🛒 Mini Mart POS System
 `HTML` `CSS` `JavaScript`
 
@@ -78,8 +88,6 @@ A cross-platform clone of the Pinterest mobile UI spanning five screens: home fe
 `Java` `Swing` `MySQL` `JDBC`
 
 A full-featured desktop POS application with role-based access control — Managers get full system access while Cashiers are restricted to the POS module. Built on a relational MySQL database with 6 normalized tables, applying OOP principles including encapsulation and a clean separation between UI and data access layers.
-
-
 
 ## 📬 Let's Connect
 
