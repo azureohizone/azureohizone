@@ -3,8 +3,10 @@
 # Hello, I'm Muyyi 👋
 
 **Software Development Student · Front-End Enthusiast · Lifelong Learner**
+ 
+📍 Phnom Penh, Cambodia &nbsp;|&nbsp; 📧 muyyi22@gmail.com &nbsp;|&nbsp; 🌐 [Portfolio](https://azureohizone.github.io/Portfolio/) &nbsp;|&nbsp; 📄 [CV](./CV-lestest_version.pdf) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/muyyi-srors-8a8128290/)
 
-📍 Phnom Penh, Cambodia &nbsp;|&nbsp; 📧 muyyi22@gmail.com &nbsp;|&nbsp; 🌐 [Portfolio](https://azureohizone.github.io/Portfolio/) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/muyyi-srors-8a8128290/)
+</div>
 
 </div>
 
